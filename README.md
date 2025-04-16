@@ -8,7 +8,7 @@ I'm an engineer with a deep curiosity for the infrastructure that powers softwar
 
 
 📂 **Check out some of my projects**:
-- [Project 1](link) – brief one-liner about what it does
+- [Telex Intergration for Grafana-Loki](https://github.com/Jidetireni/grafana-loki-monitor.git) – I built a Telex Integration that enables periodic log retrieval from a Loki server and forwards logs to a Telex channel.
 - [Project 2](link)
 
 📬 **Reach me**:
