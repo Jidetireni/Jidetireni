@@ -1,10 +1,11 @@
-### Hi there 👋 I'm Tireni
+### Hey, it's Tireni... Nice to meet you!
 
-I'm a software engineer with a deep curiosity for the infrastructure that powers software—from the cloud to the command line.
+I'm an engineer with a deep curiosity for the infrastructure that powers software. While I write code from time to time, I'm most often diving into DevOps to build scalable, automated systems that keep everything running smoothly.
 
-🚀 **DevOps & Cloud Engineer** passionate about automation, building scalable systems, and optimizing infrastructure.
+🛠 **Tech Stack**:
+- **Languages**: Golang, Python, Bash
+- **DevOps**: AWS | Docker | Terraform | Ansible | Kubernetes | GitHub Actions | Prometheus & Grafana
 
-🛠 **Tech Stack**: AWS | Docker | Terraform | Ansible | Kubernetes | GitHub Actions | Prometheus & Grafana
 
 📂 **Check out some of my projects**:
 - [Project 1](link) – brief one-liner about what it does
