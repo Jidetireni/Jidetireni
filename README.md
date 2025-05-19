@@ -1,4 +1,4 @@
-### Hey, I'm T\_REX — welcome to my repo! 👋
+### Hey, I'm T\-REX — welcome to my repo! 👋
 
 I’m passionate about building with **Go**, orchestrating systems using **Kubernetes**, and working across **cloud infrastructure**.
 
